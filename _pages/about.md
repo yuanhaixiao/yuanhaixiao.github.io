@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postgraduate student in the FinTech program[School of Management and Economics] at the Chinese University of Hong Kong, Shenzhen(https://www.cuhk.edu.cn/). I received my bachelor’s degree in finance from Hunan University(https://www-en.hnu.edu.cn/) and my master’s degree in finance from City University of Hong Kong(https://www.cityu.edu.hk/). My research interest includes empirical asset pricing, machine learning in finance.
+I am a postgraduate student in the FinTech program at the Chinese University of Hong Kong, Shenzhen[School of Management and Economics](https://sme.cuhk.edu.cn/). I received my bachelor’s degree in finance from [Hunan University](https://www-en.hnu.edu.cn/) and my master’s degree in finance from City University of Hong Kong[Department of Economics and Finance](https://www.cityu.edu.hk/). My research interest includes empirical asset pricing, machine learning in finance.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
