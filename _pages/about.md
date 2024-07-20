@@ -12,7 +12,7 @@ I received my bachelor’s degree in Finance from [Hunan University](https://www
 
 My research interest includes empirical asset pricing, machine learning in finance.
 
-# I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+~~I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.~~
 
 You can find my CV here: [Yuanhai's Curriculum Vitae](../assets/CV20240720.pdf).
 
