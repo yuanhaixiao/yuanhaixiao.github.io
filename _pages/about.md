@@ -16,4 +16,4 @@ I am very fortunate to be advised by [Prof. Chen](https://jt.hnu.edu.cn/info/116
 
 You can find my CV here: [Yuanhai's Curriculum Vitae](../assets/CV20240720.pdf).
 
-[Email](mailto:yuanhaixiao@link.cuhk.edu.cn) / [Github](https://github.com/yuanhaixiao) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_69216577?spm=1010.2135.3001.5343)
+[Email](mailto:yuanhaixiao@link.cuhk.edu.cn) / [Github](https://github.com/yuanhaixiao) / [Wechat](../images/wechat.jpg) / [cnblogs](https://www.cnblogs.com/yuanhaixiao)
