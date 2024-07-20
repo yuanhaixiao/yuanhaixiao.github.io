@@ -16,4 +16,4 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [Yuanhai's Curriculum Vitae](../assets/CV20240720.pdf).
 
-[Email](mailto:yuanhaixiao@link.cuhk.edu.cn) / [Github](https://github.com/yuanhaixiao) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:yuanhaixiao@link.cuhk.edu.cn) / [Github](https://github.com/yuanhaixiao) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/weixin_69216577?spm=1010.2135.3001.5343)
