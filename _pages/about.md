@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postgraduate student in the FinTech program at the [School of Management and Economics](https://sme.cuhk.edu.cn/), Chinese University of Hong Kong, Shenzhen. 
+I am a postgraduate student in the FinTech program at the [School of Management and Economics, Chinese University of Hong Kong, Shenzhen](https://sme.cuhk.edu.cn/). 
 
-I received my bachelor’s degree in Finance from [Hunan University](https://www-en.hnu.edu.cn/) and my master’s degree in Finance from [Department of Economics and Finance](https://www.cb.cityu.edu.hk/ef/), City University of Hong Kong. 
+I received my bachelor’s degree in Finance from [Hunan University](https://www-en.hnu.edu.cn/) and my master’s degree in Finance from [Department of Economics and Finance, City University of Hong Kong](https://www.cb.cityu.edu.hk/ef/).
 
 My research interest includes empirical asset pricing, machine learning in finance.
 
